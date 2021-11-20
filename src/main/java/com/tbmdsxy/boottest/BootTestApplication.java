@@ -12,6 +12,7 @@ public class BootTestApplication {
         System.out.println("123");
         System.out.println("娃哈哈大女单决赛");
         System.out.println("hello.master");
+        System.out.println("hello,test");
     }
 
 }
