@@ -10,6 +10,7 @@ public class BootTestApplication {
         SpringApplication.run(BootTestApplication.class, args);
         System.out.println("哈哈哈哈哈");
         System.out.println("123");
+        System.out.println("娃哈哈大女单决赛");
     }
 
 }
